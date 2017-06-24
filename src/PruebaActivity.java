@@ -12,5 +12,7 @@ public class PruebaActivity {
         System.out.println("Hola amiguitos :v");
         System.out.println("Este entra para el commit final. :v");
         System.out.println("Si yo imprimo alguna otra cosa, ¿saldrá en el mismo sitio?");
+        System.out.println("Puede que posiblemente sólo sea cuestión de esperar," +
+                " ¿o necesariamente tenemos que poner push?");
     }
 }
