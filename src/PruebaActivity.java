@@ -11,6 +11,5 @@ public class PruebaActivity {
         hacerAlgo();
         System.out.println("Hola amiguitos :v");
         System.out.println("Si yo imprimo alguna otra cosa, ¿saldrá en el mismo sitio?");
-        System.out.println("Si yo imprimo alguna otra cosa, ¿saldrá en el mismo sitio?");
     }
 }
